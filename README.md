@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurav Mehta
-- 👀 I’m interested in Machiene Learning and Appliation Development
+- 👀 I’m interested in Machine Learning and Appliation Development
 - 🌱 I’m currently learning Android Application Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Disturb Me : Email:Sauravmehtaemail@gmail.com

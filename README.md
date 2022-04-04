@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saurav Mehta
 - 👀 I’m interested in Machine Learning and Appliation Development
 - 🌱 I’m currently learning Android Application Development
-- 📫 Disturb Me : Email:Sauravmehtaemail@gmail.com
+- 📫 Disturb Me : Email:Sauravmehta818@gmail.com
                    Mob: 8253802929
 
 <!---
